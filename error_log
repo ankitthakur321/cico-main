@@ -1,0 +1,4 @@
+[22-Apr-2022 01:08:49 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/checkstv/public_html/application/views/hotel-list.php on line 274
+[28-Apr-2022 06:46:06 America/Chicago] PHP Fatal error:  Cannot redeclare HotelsModel::getLocationwithRatingsandAmenity() in /home2/checkstv/public_html/application/models/HotelsModel.php on line 61
+[28-Apr-2022 06:46:17 America/Chicago] PHP Fatal error:  Cannot redeclare HotelsModel::getLocationwithRatingsandAmenity() in /home2/checkstv/public_html/application/models/HotelsModel.php on line 61
+[29-Apr-2022 00:21:56 America/Chicago] PHP Fatal error:  Cannot redeclare HotelsModel::getLocationwithPrice() in /home2/checkstv/public_html/application/models/HotelsModel.php on line 92
